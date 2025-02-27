@@ -29,7 +29,7 @@ source .venv/bin/activate  # Linux/macOS
 
 ### 2. Executar o Script
 
-Para executar o algoritmo, basta rodar o arquivo `main.py`:
+Para executar o algoritmo, basta rodar o arquivo `Karatsuba.py`:
 
 ```bash
 python Karatsuba.py
