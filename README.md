@@ -108,11 +108,5 @@ A complexidade ciclomática do algoritmo é **3**, indicando que há 3 caminhos 
 
 O algoritmo de Karatsuba oferece uma solução eficiente para multiplicação de números inteiros grandes, sendo amplamente utilizado em áreas como criptografia e manipulação de big integers. Este projeto cumpre os requisitos solicitados e inclui toda a documentação necessária para entendimento e execução.
 
----
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT.
-
 
 
