@@ -32,7 +32,7 @@ source .venv/bin/activate  # Linux/macOS
 Para executar o algoritmo, basta rodar o arquivo `main.py`:
 
 ```bash
-python main.py
+python Karatsuba.py
 ```
 
 O programa solicitará que o usuário insira dois números inteiros e exibirá o produto calculado pelo algoritmo de Karatsuba.
@@ -99,17 +99,8 @@ A complexidade ciclomática do algoritmo é **3**, indicando que há 3 caminhos 
 
 ### Visualização do Grafo de Fluxo
 
-```text
-          [Inicio]
-             |
-      +--<Caso Base>--+
-      |               |
- [Multiplicação]   [Divisão]
-      |               |
-   [Recursão 3x]---->[Combina Resultados]-->
-             |
-          [Retorno]
-```
+![image](https://github.com/user-attachments/assets/2246f900-4ce4-4a5d-964d-21938d94b73f)
+
 
 ---
 
