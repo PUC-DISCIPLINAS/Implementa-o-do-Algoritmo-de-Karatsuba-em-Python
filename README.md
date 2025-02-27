@@ -13,6 +13,12 @@ Este projeto tem como objetivo implementar o algoritmo de Karatsuba em Python, u
 ## Instruções de utilização
 
 1- Clone este repositório.
+
+
 2- Execute o script principal que contém a função Karatsuba.
+
+
 3- Adicione os numeros grandes que deseja multiplicar.
+
+
 4- Veja o resultado.
